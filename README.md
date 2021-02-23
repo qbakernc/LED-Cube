@@ -5,8 +5,8 @@ Links
 [Video Demonstration](https://www.dropbox.com/s/ls7eiz1xcjy9bnx/5x5x5LedCube.MOV?dl=0 "5x5x5 Led Cube")
 
 Circuit Board Images  
-<img src = "Images/DSC03021.jpg" width = "246" height = "184">
-<img src = "Images/DSC03022.jpg" width = "246" height = "184">
-<img src = "Images/DSC03023.jpg" width = "246" height = "184">
-<img src = "Images/DSC03024.jpg" width = "246" height = "184">
-<img src = "Images/PCB_Layout.png" width = "246" height = "184">
+<img src = "Images/PCB_Layout.png" width = "274" height = "205">
+<img src = "Images/DSC03021.jpg" width = "274" height = "205">
+<img src = "Images/DSC03022.jpg" width = "274" height = "205">
+<img src = "Images/DSC03023.jpg" width = "274" height = "205">
+<img src = "Images/DSC03024.jpg" width = "274" height = "205">
