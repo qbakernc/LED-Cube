@@ -9,4 +9,4 @@ Circuit Board Images
 <img src = "Images/DSC03022.jpg" width = "246" height = "184">
 <img src = "Images/DSC03023.jpg" width = "246" height = "184">
 <img src = "Images/DSC03024.jpg" width = "246" height = "184">
-<img src = "Images/PCB_Layout.jpg" width = "246" height = "184">
+<img src = "Images/PCB_Layout.png" width = "246" height = "184">
