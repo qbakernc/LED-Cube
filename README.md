@@ -1,5 +1,5 @@
 # LED-Cube
-5x5x5 LED Cube with custom animations.
+##5x5x5 LED Cube with custom animations.
 
 Circuit Board Images
 <img src = "Images/DSC03021.jpg" width = "274" height = "205">
