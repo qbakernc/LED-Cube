@@ -17,6 +17,7 @@ Component List
 
 Links  
 [Video Demonstration](https://www.dropbox.com/s/ls7eiz1xcjy9bnx/5x5x5LedCube.MOV?dl=0 "5x5x5 Led Cube"){:target="_blank" rel="noopener"}
+<a href="https://www.dropbox.com/s/ls7eiz1xcjy9bnx/5x5x5LedCube.MOV?dl=0" target="_blank">external link</a>
 
 Circuit Board Images  
 <img src = "Images/PCB_Layout.png" width = "274" height = "205">
