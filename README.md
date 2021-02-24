@@ -1,5 +1,11 @@
 # LED-Cube
-5x5x5 LED Cube with custom animations.
+5x5x5 LED Cube Matrix that displays animations. The cube was designed, assembled, and programmed by me. Assembly Language was used to program the cube.
+
+What I learned
+* Learned the concept of Binary Code Modulation to adjust LED brightness.
+* Learned the concept of LED Multiplexing.
+* Increased my knowledge on code orginization.
+* Increased my knowledge on reusable functions.
 
 Component List
 * Atmega 32 Microcontroller
@@ -17,7 +23,6 @@ Component List
 
 Links  
 [Video Demonstration](https://www.dropbox.com/s/ls7eiz1xcjy9bnx/5x5x5LedCube.MOV?dl=0 "5x5x5 Led Cube"){:target="_blank" rel="noopener"}
-<a href="https://www.dropbox.com/s/ls7eiz1xcjy9bnx/5x5x5LedCube.MOV?dl=0" target="_blank">external link</a>
 
 Circuit Board Images  
 <img src = "Images/PCB_Layout.png" width = "274" height = "205">
