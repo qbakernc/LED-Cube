@@ -1,6 +1,20 @@
 # LED-Cube
 5x5x5 LED Cube with custom animations.
 
+Component List  
+* Atmega 32 Microcontroller
+* Cat4016 LED Driver x2
+* Blue LED x 125
+* BC635 Transistor x5
+* 16 Mghz Crystal x1
+* 10k resistor
+* 1k resistor x5
+* 2.2k resistor x2
+* 22pF capacitor x2
+* 100pF capacitor x3
+* 1N914 Diode
+* Header Pins x43
+
 Links  
 [Video Demonstration](https://www.dropbox.com/s/ls7eiz1xcjy9bnx/5x5x5LedCube.MOV?dl=0 "5x5x5 Led Cube")
 
