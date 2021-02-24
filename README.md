@@ -1,7 +1,7 @@
 # LED-Cube
 5x5x5 LED Cube with custom animations.
 
-Component List  
+Component List
 * Atmega 32 Microcontroller
 * Cat4016 LED Driver x2
 * Blue LED x 125
