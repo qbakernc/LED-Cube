@@ -4,7 +4,7 @@
 What I learned
 * Learned the concept of Binary Code Modulation to adjust LED brightness.
 * Learned the concept of LED Multiplexing.
-* Increased my knowledge on code orginization.
+* Increased code organization skills.
 * Increased my knowledge on reusable functions.
 
 Component List
